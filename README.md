@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www2.synvestable.com/assets/img/clouding.gif"  />
+  <img height="150" src="[https://www2.synvestable.com/assets/img/clouding.gif](https://i.pinimg.com/originals/22/09/5d/22095d8fd02905f537e78a507c7536e0.gif)"  />
 </div>
 
 ###
