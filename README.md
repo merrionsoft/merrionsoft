@@ -1,5 +1,4 @@
 <h2 align="center">MerrionSoft Pvt LTD</h2>
-<h3 align="center">Software & it solution company</h3>
 
 ###
 
